@@ -98,13 +98,13 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 ```sh
   cd my-folder
-  git clone git@github.com/codedit334/Hello_Microverse.git
+  git clone git@github.com/codedit334/Trials_Review
 ```
 ### Install
 
 Install this project with:
 ```sh
-  cd Hello_Microverse
+  cd Trials_Review
   npm install
 ```
 
@@ -149,9 +149,7 @@ You can deploy this project using your preferd hosting platform.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--Centering the title
--Making the title responsive
-
+???
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
