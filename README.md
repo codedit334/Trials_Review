@@ -149,7 +149,7 @@ You can deploy this project using your preferd hosting platform.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-???
+- Styling the page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
